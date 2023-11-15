@@ -5,3 +5,5 @@
 This repo is part of a tutorial for getting started with [garnix](https://garnix.io) – a zero-configuration Nix flake-based CI.
 
 To learn how to use garnix, visit https://garnix.io/hello-garnix
+
+1. Hello, garnix!
